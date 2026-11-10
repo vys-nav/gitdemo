@@ -8,4 +8,6 @@ print("sunami")
 print("sugnam")
 print("achar")
 
-print("11111111111")
+
+
+print("1111111")
